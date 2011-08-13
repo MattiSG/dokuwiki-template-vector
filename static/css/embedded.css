@@ -1,0 +1,9 @@
+/**
+*The goal of this file is to build on screen.css, probably only deleting unwanted rules for embedding.
+*It would be more efficient to use screen.css as an enhancement to embedded.css rather than the other way around, but this fork is intended to be updated from the main trunk without any problem.
+*/
+
+#content {
+	margin-left: 0 !important;
+	border: none !important;
+}
