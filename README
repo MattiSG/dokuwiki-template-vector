@@ -1,3 +1,12 @@
+Fork notes
+==========
+
+This fork most probably has absolutely no interest to you. I simply modified what I needed to be able to serve an embedded version of this template, that is, a subset of the page you access normally, without all tools, boxes and navigation elements.
+It was done for particular needs, under particular circumstances, and is of very poor quality. I'm publishing it only because of its license, but I don't believe it has any reason of being worked on for quality, since it does not correspond to any common use case.
+
+- - - - - - - - - - -
+
+
 Title: README of the vector template for DokuWiki
 Creation date: 2010-05-29
 Last Update: 2011-05-10
