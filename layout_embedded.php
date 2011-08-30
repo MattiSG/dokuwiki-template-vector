@@ -318,6 +318,20 @@ if (file_exists(DOKU_TPLINC."lang/".$conf["lang"]."/style.css")){
 <!-- end footer -->
 <?php
 endif;
+?>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	for (var i = 0; i < links.length; i++) {
+		links[i].target = '_blank';
+	}
+})();
+//]]>
+</script>
+
+<?php
 //provide DokuWiki housekeeping, required in all templates
 tpl_indexerWebBug();
 
